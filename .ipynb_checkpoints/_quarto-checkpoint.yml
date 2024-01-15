@@ -3,9 +3,6 @@ project:
 
 website:
   title: "Seongjoon's Blog"
-
-  page-footer:
-    border: true
     
   navbar:
 
@@ -15,21 +12,17 @@ website:
       - text: Quarto-make blog
         href: https://sjoon0305.github.io/blog_test2/
 
-      
     right:
       - about.qmd
       - icon: github
         href: https://github.com/sjoon0305
       - icon: twitter
         href: https://twitter.com
+
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    code-fold: false
-    code-line-numbers: false
-    code-copy: false
 
 
 
