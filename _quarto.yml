@@ -11,6 +11,8 @@ website:
         href: https://sjoon0305.github.io/Deep_Learning/
       - text: Quarto-make blog
         href: https://sjoon0305.github.io/blog_test2/
+      - text: 2024 Data Science Project
+        href: https://sjoon0305.github.io/2024_Data_Science_Project/
 
     right:
       - about.qmd
