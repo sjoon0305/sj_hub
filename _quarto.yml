@@ -13,6 +13,8 @@ website:
         href: https://sjoon0305.github.io/blog_test2/
       - text: 2024 Data Science Project
         href: https://sjoon0305.github.io/2024_Data_Science_Project/
+      - text: PyTorch Deep Learning Master
+        href: https://sjoon0305.github.io/PyTorch_intro/
 
     right:
       - about.qmd
