@@ -9,8 +9,6 @@ website:
     left:
       - text: Deep_Learnig
         href: https://sjoon0305.github.io/Deep_Learning/
-      - text: DeepXDE
-        href: https://sjoon0305.github.io/DeepXDE_odes/
       - text: 2024 Data Science Project
         href: https://sjoon0305.github.io/2024_Data_Science_Project/
       - text: PyTorch Deep Learning Master
